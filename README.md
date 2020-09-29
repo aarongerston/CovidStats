@@ -1,7 +1,7 @@
 # CovidStats
 Contains various analyses describing the Covid19 pandemic around the globe.
 
-The Covid-19 pandemic has substantially impacted social and economic situations across the globe and taken a number of lifes while doing so. This repository is a meager attempt to understand through simple data analysis and visualization which parts of the world are succeeding or failing to control the pandemic, and what factors may be influencing the outcome, so that we can learn to better handle this and similar situations in the future.
+The Covid-19 pandemic has substantially impacted social and economic situations across the globe and taken a number of lives while doing so. This repository is a meager attempt to understand through simple data analysis and visualization which parts of the world are succeeding or failing to control the pandemic, and what factors may be influencing the outcome, so that we can learn to better handle this and similar situations in the future.
 
 This repository currently:
 - [x] Produces animated choropleth maps of the globe illustrating the progression over time of Covid-19 cases and mortality rates.
