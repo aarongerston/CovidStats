@@ -2,11 +2,11 @@ if __name__ == '__main__':
 
 	import numpy as np
 	import pandas as pd
-	import plotly as pl
 	import plotly.express as px
-	import plotly.graph_objs as go
-	from plotly.subplots import make_subplots
-	from plotly.offline import download_plotlyjs, plot, iplot
+	# import plotly as pl
+	# import plotly.graph_objs as go
+	# from plotly.subplots import make_subplots
+	from plotly.offline import plot
 
 	'''
 	Prepare data
