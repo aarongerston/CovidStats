@@ -13,17 +13,18 @@ e.g.
 ![Covid-19 Mortality Rate](/gifs/CovidWorldMortalityRate.gif)
 
 ## How to use this code:
-1. Download or clone the repo (at present you really only need /corona_choropleth.py, /data/covid_19_data2.csv, and /data/world population.csv)
-2. Make sure your environment contains the necessary dependencies (I used numpy 1.18.1, pandas 1.0.1, and plotly 4.5.1 on Python 3.8.1)
-3. Run corona_choropleth.py
+1. Download or clone the repo (at present you really only need /CovidStats.ipynb, /data/covid_19_data2.csv, and /data/world population.csv)
+2. Install requirements (or run online e.g. in Colab)
+3. Run CovidStats.ipynb
 4. Make gifs to share using your favorite screen capture software (I used ScreenToGif) or share your plots on your website using Plotly's own API (not documented here)
 
 ## Thoughts for future revisions...
-1. Animate correlations between countries and
+1. Animate correlations between countries and other (more meaningful) indicators, like:
     * GDP
     * Population density
-    * other factors...
-2. Awaiting inspiration ;)
+    * Regional temperature
+    * Lockdown regulations
+    * other indicators...
 
 ## References
 1. COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. Downloaded from the [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data?select=covid_19_data.csv) repository on July 30, 2020.
